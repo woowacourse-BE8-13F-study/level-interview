@@ -2,7 +2,7 @@
 
 ## 스터디 규칙
 1. 각 요일별(월~금) 발제자는 `오전 10시 이전` 오늘의 주제를 발제한다. [주제 발제 가이드](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/1)
-2. 발제자를 포함한 모든 스터디원은 당일 `자정 이전`에 해당 주제에 대한 답변을 작성한다.
+2. 발제자를 포함한 모든 스터디원은 당일 `자정 이전`에 해당 주제에 대한 답변을 작성한다.[주제 답변 가이드](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/2)
 3. 모든 스터디원은 주 최소 3개의 주제에 대해 답변을 작성해야 하며, 각 주제에 대해서는 반드시 당일 `자정 이내`에 달아야 한다.
 
 ## 스터디 방향성
