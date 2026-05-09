@@ -16,10 +16,10 @@
 ## 요일별 발제자
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/softmoca"><img src="https://github.com/softmoca.png" width="200px;" alt=""/><br /><sub><b>softmoca</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Uechann"><img src="https://github.com/Uechann.png" width="200px;" alt=""/><br /><sub><b>Uechann</b></sub></a></td>
-    <td align="center"><a href="https://github.com/sangjun121"><img src="https://github.com/sangjun121.png" width="200px;" alt=""/><br /><sub><b>sangjun121</b></sub></a></td>
-    <td align="center"><a href="https://github.com/haeyoon1"><img src="https://github.com/haeyoon1.png" width="200px;" alt=""/><br /><sub><b>haeyoon1</b></sub></a></td>
-    <td align="center"><a href="https://github.com/koreaioi"><img src="https://github.com/koreaioi.png" width="200px;" alt=""/><br /><sub><b>koreaioi</b></sub></a></td>
+    <td align="center"><a href="https://github.com/haeyoon1"><img src="https://github.com/haeyoon1.png" width="200px;" alt=""/><br /><sub><b>[월] 카키</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Uechann"><img src="https://github.com/Uechann.png" width="200px;" alt=""/><br /><sub><b>[화] 마이찬</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sangjun121"><img src="https://github.com/sangjun121.png" width="200px;" alt=""/><br /><sub><b>[수] 샤를</b></sub></a></td>
+    <td align="center"><a href="https://github.com/koreaioi"><img src="https://github.com/koreaioi.png" width="200px;" alt=""/><br /><sub><b>[목] 송송</b></sub></a></td>
+    <td align="center"><a href="https://github.com/softmoca"><img src="https://github.com/softmoca.png" width="200px;" alt=""/><br /><sub><b>[금] 모카</b></sub></a></td>
     </tr>
 </table>
