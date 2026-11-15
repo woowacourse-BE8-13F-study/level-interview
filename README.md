@@ -17,7 +17,7 @@
 </details>
 
 ## 활동 내역
-> Update: Discussions #60까지 반영
+> Update: Discussions #139까지 반영
 ### OOP
 - [OOP관점에서 객체의 생성과 사용을 분리해야하는 이유?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/4)
 - [타입 계층 목적 상속의 조건과, 조건을 지키지 않았을 때의 문제점](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/5)
@@ -43,6 +43,10 @@
 - [synchronized vs volatile vs Atomic 차이](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/42)
 - [DTO에 Builder를 사용하는 기준은 무엇이어야 할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/45)
 - [객체를 Thread-safe하게 설계하는 방법](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/47)
+- [sealed interface는 무엇이고 언제, 왜 쓸까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/108)
+- [Java로 작성한 소스 코드가 실행되기까지 어떤 과정을 거치는지 설명해 주세요.](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/115)
+- [synchronized로는 왜 여러 서버의 동시 요청을 제어할 수 없나요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/130)
+- [자바의 콜드스탑과 웜업](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/135)
 
 ### Database
 - [트랜잭션의 격리 수준은 왜 중요할까](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/6)
@@ -52,12 +56,41 @@
 - [트랜잭션 락의 종류](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/35)
 - [데이터베이스가 데드락을 감지하고 처리하는 방식](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/49)
 - [데이터 접근 기술 선택](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/59)
+- [데이터베이스가 인덱스가 아닌 Full Table Scan을 선택하는 경우](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/61)
+- [MVCC가 무엇이고 왜 사용하나요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/62)
+- [RDB와 NoSQL의 차이](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/64)
+- [OLAP와 OLTP란 무엇이며, 차이점](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/66)
+- [MySQL에서 인덱스를 사용했는데도 쿼리가 느릴 수 있는 이유는 무엇일까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/68)
+- [Innodb의 리두로그와 언두로그](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/76)
+- [RDS와 자체 구축 DB 차이점](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/80)
+- [Spring에서 실행한 쿼리는 데이터베이스에서 어떻게 처리될까요 ??](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/88)
+- [MySQL vs PostresSQL](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/92)
+- [트랜잭션 격리 레벨 (복습)](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/114)
+- [변경된 데이터만 수집하기 위한 증분 수집과 커서 설계](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/123)
+- [DB 커넥션 풀은 왜 쓰고, 크기는 어떻게 정해야 할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/125)
+- [Table Full Scan, Index Range Scan](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/133)
+- [DB 인덱스](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/136)
+- [DB 레플리케이션(Replication)에 대해 아는 만큼 이야기해주세요](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/139)
 
 ### Network
 - [존재하지 않는 리소스의 DELETE 요청에 대한, 상태값은 204와 404 중 무엇이 적절할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/8)
 - [DNS에 대해 설명해주세요](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/52)
 - [멱등성과 재시도](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/55)
 - [타임아웃 이후 재시도를 멱등하게 만들어야 하는 이유](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/58)
+- [서버의 양방향 실시간 통신](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/65)
+- [전시 서버란 무엇인가요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/71)
+- [로드밸런서와 서버 커넥션 타임아웃](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/72)
+- [실시간 알림](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/75)
+- [DNS 심층 질문](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/102)
+- [브라우저가 /index.html을 요청하면 어떻게 동작할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/104)
+- [서버는 정상인데 클라이언트 요청이 타임아웃되는 이유?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/106)
+- [HTTP Keep-Alive란 무엇인가](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/109)
+- [3-Way Handshake에 대해 설명해 주세요.](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/110)
+- [서비스에서 네트워크 장애는 어떻게 감지하고 대응하나요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/111)
+- [HTTPS/TLS 핸드셰이크에 대해 설명해 주세요.](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/113)
+- [VPC, 서브넷, 라우팅 테이블로 이해한 서버 간 통신](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/117)
+- [외부 조회 API의 장애를 어디까지 핸들링해야할까요 ?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/129)
+- [OSI 7계층과 TCP/IP 4계층의 구조적 차이와 각 계층의 역할을 설명해보세요.](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/134)
 
 ### Spring Boot
 - [JDBC에서 INSERT시 생성된 id를 처리하는 방식](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/3)
@@ -66,11 +99,13 @@
 - [외부 API 호출](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/53)
 - [트랜잭셔널 아웃박스 패턴이란?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/54)
 - [@Transactional은 모든 예외를 롤백시키나요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/60)
+- [로그 설계 - 무엇을 남길건가요??](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/97)
 
 ### Spring Core
 - [CGLIB란 무엇이며 프록시 생성 방식](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/18)
 - [로컬 캐시와 분산 캐시는 어떤 기준으로 선택해야 할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/46)
 - [스프링 빈(Bean)의 설계 철학](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/57)
+- [클라이언트 호출부터 Tomcat에서 요청을 받을때 내부 흐름!](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/87)
 
 ### Spring Data
 - [읽기 작업에 @Transactional(readOnly = true)를 사용하는 이유](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/40)
@@ -91,6 +126,60 @@
 - [계층별 테스트 전략](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/37)
 - [동시성 테스트 코드](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/48)
 - [테스트 코드가 왜 필요한지, 어떤 문제를 해결해준다고 생각하시나요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/51)
+
+### AI
+- [AI가 작성한 코드는 어디까지 검증해야 할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/63)
+- [에이전트 엔지니어링 비교](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/69)
+- [모델을 억제하는 하네스](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/77)
+- [AI 코드 리뷰와 QA에 관해](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/78)
+- [프로젝트 문서 관리](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/83)
+- [협업할 때 팀원과 AI 코드 사용 기준, 어떻게 맞추면 좋을까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/85)
+- [ADR와 RFC 문서를 관리하는 방법](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/86)
+- [팀원이 납득할 수 있는 명확한 성공 기준을 잡는 법](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/91)
+- [좋은 팀이란, 좋은 리더란 무엇일까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/95)
+- [QA는 어떤 방식으로 진행하시나요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/98)
+- [Codex와 Claude code의 차이](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/116)
+- [llm 호출시 토큰 비용 절약](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/127)
+- [우아콘에서 인상깊었던 세션](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/128)
+- [MCP는 무엇이고, API 요청과 어떤 것이 다를까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/131)
+- [컨텍스트 캐싱 전략](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/132)
+
+### Infa
+- [수평 확장(스케일 아웃), 수직 확장(스케일 업)](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/70)
+- [무중단 배포 전략(Blue-Green, Rolling, Canary) 선택 기준](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/73)
+- [CDN 캐시로 오래된 데이터가 제공되는 문제 해결](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/74)
+- [Public IP가 할당되지않은 EC2 접속](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/82)
+- [모니터링 알림 기준](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/84)
+- [AWS Lambda란 무엇이고, 어떻게 작동하며, 언제 써야 할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/90)
+- [우리 서비스는 어디까지 버틸 수 있고, 장애 발생 시 얼마나 빨리 복구할 수 있을까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/93)
+- [제한된 예산에서 서버 자원 구성하기](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/94)
+- [이미지 저장 프로세스에서 고아 파일이 발생하는 경우](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/96)
+- [신입 백엔드 엔지니어에게 필요한 인프라 경험](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/99)
+- [현재 진행중인 프로젝트의 아키텍처 구조에 대해 3분간 설명해주세요](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/103)
+- [요청을 맡겼는데 작업이 늦거나 두 번 처리되는 이유?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/107)
+- [GitHub-hosted runner와 self-hosted runner 선택 기준](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/112)
+- [AI 기반 연관 질문 추천 기능을 도입한다면, 어떤 인프라를 선택할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/118)
+- [서비스 장애를 어떻게 감지하고, 모니터링하며, 복구하고 계신가요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/120)
+- [트래픽이 갑자기 10배 증가했을 때](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/121)
+- [이미지 압축 파이프라인](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/124)
+- [비동기 메시지 처리에서 데이터 정합성을 어떻게 보장할 수 있을까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/137)
+
+### OS
+- [크롬 브라우저의 탭은 프로세스일까요 스레드일까요](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/67)
+- [멀티프로세스와 멀티쓰레드의 특징](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/79)
+- [swapping 이란 무엇인가요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/89)
+- [가상 메모리란 무엇인가요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/119)
+- [가상 메모리](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/138)
+
+### product
+- [본인이 만든 서비스의 주요 지표](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/122)
+- [가설과 추측](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/126)
+
+### Web
+- [Url 슬러그(slug)란 무엇이며 사용하는 이유](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/81)
+- [서비스 관리자를 도입할 때, 기본적으로 갖춰야 하는 관리자 권한 구조 어떻게 설계하는게 좋을까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/100)
+- [CSRF와 XSS란](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/101)
+- [페이지네이션이 왜 필요할까요?](https://github.com/woowacourse-BE8-13F-study/level-interview/discussions/105)
 
 ## 요일별 발제자
 <table>
